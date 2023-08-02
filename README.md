@@ -22,4 +22,7 @@ git commit -m <comment>
         ex: git commit -m "Cambie la linea 18 que hace una suma"
 
 git push
-    -> Guarda los cambios rmotos en la nube
+    -> Guarda los cambios remotos en la nube
+
+git pull
+    -> Actualiza tu repositorio remoto
